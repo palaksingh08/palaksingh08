@@ -41,7 +41,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,java,python,spring,bootstrap,canva" />
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,java,python,spring,bootstrap,canva,tomcat" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="48" />
 </p>
 
 - 🛠️ Git & GitHub  

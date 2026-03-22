@@ -55,7 +55,8 @@
 
 
 ## 📂 Featured Projects  
-- 🔹 **Student Management System** – Java | JSP | Servlet | MySQL  
+- 🔹 **Student Management System** – Java | JSP | Servlet | MySQL
+- 🔹 **Expense Splitter** – Java | JSP | Servlet | MySQL  | Tomcat
 
 ---
 

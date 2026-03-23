@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;Java+%7C+Spring+Boot+Learner;Backend+Focused+Developer;Building+Real+World+Projects;Always+Learning+%26+Growing">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palaksingh08&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 🧠 About Me

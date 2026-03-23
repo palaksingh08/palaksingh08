@@ -4,7 +4,11 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer (Java) | Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Java+%7C+Spring+Boot+Learner;Backend+Focused+Developer;Building+Real+World+Projects;Always+Learning+%26+Growing">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;Java+%7C+Spring+Boot+Learner;Backend+Focused+Developer;Building+Real+World+Projects;Always+Learning+%26+Growing">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=palaksingh08&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -59,12 +63,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,html,css,js,java,python,spring,bootstrap" />
 </p>
 
-* 🛠️ Git & GitHub
-* 🛠️ IntelliJ IDEA / Eclipse
-* 🛠️ VS Code
-* 🛠️ MySQL CLI & Workbench
-* 🛠️ Apache Tomcat Server
-
 ---
 
 ## 📂 Featured Projects
@@ -85,6 +83,22 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=palaksingh08&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=palaksingh08&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=palaksingh08&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -112,7 +126,7 @@
 
 ---
 
-## 🌟 Profile Summary
+## 🌟 Quote
 
 💡 *"Turning ideas into real-world applications with clean and efficient code."*
 

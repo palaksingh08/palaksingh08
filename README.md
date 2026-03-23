@@ -1,96 +1,127 @@
-<!-- Header -->
-<h1 align="center">🖤 Palak Singh</h1>
-<h3 align="center">Full Stack Developer (Java) | Tech Enthusiast</h3>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">🖤 Palak Singh Lodhi</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer (Java) | Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=550&lines=Aspiring+Full+Stack+Developer;Java+%7C+Python+Learner;Tech+Explorer;Always+Learning+%26+Building">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Java+%7C+Spring+Boot+Learner;Backend+Focused+Developer;Building+Real+World+Projects;Always+Learning+%26+Growing">
 </p>
 
 ---
 
-## 🖥️ About Me  
-- 🎓 Final-year **B.Tech student**  
-- 💻 Learning **Java, Python, DBMS, Web Development**    
-- 🚀 Growing towards becoming a **Full Stack Developer**  
-- 🤝 Open for internships & job opportunities  
-- 🖤 Passionate, observant, adapting, and a Leadership 
+## 🧠 About Me
+
+🎓 Final-year **B.Tech (CSE) student**
+💻 Passionate about **Backend Development & Problem Solving**
+🌱 Currently learning **Spring Boot & Advanced Java**
+🚀 Goal: Become a **Job-Ready Full Stack Developer**
+🤝 Open to **Internships & Entry-Level Opportunities**
+🖤 Strong believer in **Consistency, Growth & Leadership**
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=java,python,c" />
+### 💻 Languages
 
-### **Web Development**
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
 
-### **Backend**
-<img src="https://skillicons.dev/icons?i=mysql,git,github" />
+### 🌐 Web Development
 
-### 🛠️ Core Skills
-- 🔹 Java (JSP, Servlet, JDBC)  
-- 🔹 Web Development (HTML, CSS, JavaScript)  
-- 🔹 Object-Oriented Programming (OOP)  
-- 🔹 DBMS, SQL, MySQL  
-- 🔹 Spring Boot (Learning)    
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 🛠️ Core Skills
+
+* 🔹 Java (JSP, Servlets, JDBC)
+* 🔹 Object-Oriented Programming (OOP)
+* 🔹 DBMS & SQL
+* 🔹 Web Development (HTML, CSS, JavaScript)
+* 🔹 Spring Boot *(Learning)*
 
 ---
 
 ## 🧰 Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,java,python,spring,bootstrap,canva,tomcat" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="48" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,java,python,spring,bootstrap" />
 </p>
 
-- 🛠️ Git & GitHub  
-- 🛠️ VS Code  
-- 🛠️ IntelliJ IDEA / Eclipse  
-- 🛠️ MySQL **Command Line Client**   
-- 🛠️ Tomcat Server
-- 🛠️ Spring Boot (Currently Learning)
-
-
-## 📂 Featured Projects  
-- 🔹 **Student Management System** – Java | JSP | Servlet | MySQL
-- 🔹 **Expense Splitter** – Java | JSP | Servlet | MySQL  | Tomcat
+* 🛠️ Git & GitHub
+* 🛠️ IntelliJ IDEA / Eclipse
+* 🛠️ VS Code
+* 🛠️ MySQL CLI & Workbench
+* 🛠️ Apache Tomcat Server
 
 ---
 
-## 📊 GitHub Stats  
+## 📂 Featured Projects
+
+🔹 **Student Management System**
+→ Java | JSP | Servlet | MySQL
+→ CRUD Operations | MVC Architecture
+
+🔹 **Expense Splitter Web App**
+→ Java | JSP | Servlet | MySQL | Tomcat
+→ Group expense tracking system
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=palaksingh08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=palaksingh08&theme=tokyonight&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=palaksingh08&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=palaksingh08&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palaksingh08&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=palaksingh08&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/palak-lodhi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/palaksingh08"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:palaklodhi90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/palak-lodhi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/palaksingh08">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:palaklodhi90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 🌟 Profile Summary
+
+💡 *"Turning ideas into real-world applications with clean and efficient code."*
+
 ---
 
-## 🌟 Thank you for visiting my profile!
+<p align="center">
+⭐ Star my repositories if you find them interesting!
+</p>
 
-<p align="center">Made with ❤️ by <strong>Palak Singh</strong></p>
-
-<h3 align="center">⭐ Star my repositories if you find them interesting! ⭐</h3>
+<p align="center">
+Made with ❤️ by <strong>Palak Singh Lodhi</strong>
+</p>

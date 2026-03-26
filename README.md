@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">🖤 Palak Singh Lodhi</h1>
+<h1 align="center"> Palak Singh Lodhi</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer (Java) | Backend Enthusiast</h3>
 
 <p align="center">
